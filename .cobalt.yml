@@ -1,0 +1,13 @@
+name: This Week in Rust
+source: "."
+dest: "output"
+ignore:
+  - .git/*
+  - .gitignore
+  - .cobalt.yml
+  - build/*
+  - plugins/*
+  - drafts/*
+  - content/*
+  - themes/*
+  - .travis.yml
